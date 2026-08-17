@@ -1,0 +1,6 @@
+{
+  "name": "worker_safety - Ergonomic Risk & Productivity System",
+  "description": "Stereo-vision tracked joint angle ergonomic risk (RULA) and productivity monitoring system with autonomous Gemini supervisor agent, OpenCV skeleton visualizer, and Vertex AI/Cloud Run deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
